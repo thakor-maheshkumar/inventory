@@ -1,0 +1,26 @@
+#shift_strat{
+	width: 250px;
+	background: skyblue;
+	color:white;
+	font-weight: bold;
+	text-align: center;
+}
+#shift_end{
+	width: 250px;
+	background: skyblue;
+	color:white;
+	font-weight: bold;
+	text-align: center;
+}
+#interval{
+	width: 250px;
+	background: skyblue;
+	color:white;
+	font-weight: bold;
+	text-align: center;
+
+}
+#days{
+	width: 100px;
+	text-align: center;
+}
